@@ -1,2 +1,2 @@
 # stock-analysis
-UC Berkley Extension - Data Analytics Bootcamp
+UC Berkley Extension - Data Analytics Bootcamp - Module 2
